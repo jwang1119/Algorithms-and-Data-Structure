@@ -1,2 +1,2 @@
 # Grokking Algorithms
-Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+Resources for Grokking Algorithms (https://www.manning.com/books/grokking-algorithms)
