@@ -1,4 +1,4 @@
-# Python for Algorithms and Data-Structures
+# Python for Algorithms and Data Structures
 #### Repository for the Udemy Course: Python for Algorithms and Data Structures.
 
 
